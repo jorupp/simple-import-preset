@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "author": "Jonathan Rupp <jrupp@rightpoint.com>",
+  "license": "MIT",
+  "preset": "preset.ts",
+  "devDependencies": {
+    "@preset/core": "^0.7.0",
+    "@types/node": "^18.7.16"
+  }
+}
